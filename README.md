@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Monster Watcher
 
-Author: (TODO: your name)
+Author: Shengjian Chen
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: When you hear the warning voice, one monster is breaking out. Try to find it and stare at it.
 
 Screen Shot:
 
@@ -10,6 +10,6 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Each 5s, there will be one monster moving. Listen to the warning sound and use Q/E to rotate left/right(I tried to make it slowly turn but ...). Stare at it to make it stop
 
 This game was built with [NEST](NEST.md).
